@@ -36,10 +36,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarobedfl" alt="cesarobedfl" width="100" height="100"/></a> 
-</p>
-
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="300" height="300"/> &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="300" height="300" /> &nbsp;

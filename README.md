@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm César Obed Figueroa Luna</h1>
 <h3 align="center">A passionate fullstack developer from México</h3>
 
-- 🌱 I’m currently learning **GraphQL, MongoDB, Tailwind & Livewire**
+- 🌱 I’m currently learning **GraphQL, Tailwind & Livewire**
 
 - 📫 How to reach me **cesarobedfl@gmail.com**
 
@@ -36,10 +36,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat" alt="cesarobedfl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarobedfl" alt="cesarobedfl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarobedfl" alt="cesarobedfl" width="100" height="100"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="100" height="100" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="100" height="100"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="100" height="100"/></p>

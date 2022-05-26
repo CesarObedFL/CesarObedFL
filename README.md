@@ -41,7 +41,7 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="200" height="200" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="200" height="200"/> &nbsp;
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="200" height="200"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="400" height="400" /> &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="400" height="400"/> &nbsp;
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="400" height="400"/>
 </p>

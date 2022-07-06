@@ -38,7 +38,11 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="350" height="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="350" height="300" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="350" height="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="500" height="300"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="500" height="300" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="500" height="300"/>
 </p>

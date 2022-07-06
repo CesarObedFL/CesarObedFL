@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm César Obed Figueroa Luna</h1>
-<h3 align="center">A passionate fullstack developer from México</h3> :mexico:
+<h3 align="center">A passionate fullstack developer from México :mexico: </h3>
 
 - 🌱 I’m currently learning **GraphQL, Tailwind & Livewire**
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="200" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="200" height="200" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="200" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="250" height="230"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="250" height="230" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="250" height="230"/>
 </p>

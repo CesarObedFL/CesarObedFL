@@ -11,9 +11,11 @@
 <a href="https://fb.com/cesarobed.figueroaluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="césarobed.figueroaluna" height="30" width="40" /></a>
 </p>
 
-## Hire me as a freelance developer! 
+<hr>
+### Hire me as a freelance developer! 
 
-**find my services on Fiverr:** https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams
+**find my services on:** https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat" alt="cesarobedfl" /> </p>
 

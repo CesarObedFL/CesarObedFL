@@ -12,7 +12,7 @@
 </p>
 
 <hr>
-### Hire me as a freelance developer! 
+<h3>Hire me as a freelance developer! </h3>
 
 **find my services on:** https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams
 <hr>

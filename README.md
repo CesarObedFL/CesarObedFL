@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm César Obed Figueroa Luna</h1>
 <h3 align="center">A passionate fullstack developer from México :mexico: </h3>
 
-- 🌱 I’m currently learning **Docker, Livewire & Tailwind**
+- 🌱 I’m a permanent learner 😄
 
 - 📫 How to reach me **cesarobedfl@gmail.com**
 

@@ -17,7 +17,7 @@
 **find my services on:** https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams
 <hr>
 
-<h3>Look at my personal profile! </h3>
+<h3>Look at my personal portfolio! </h3>
 https://cesarobedfl.pro
 <hr>
 

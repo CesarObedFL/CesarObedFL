@@ -11,14 +11,13 @@
 <a href="https://fb.com/cesarobed.figueroaluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="césarobed.figueroaluna" height="30" width="40" /></a>
 </p>
 
+<h3>Look at my personal profile! </h3>
+<a href="https://cesarobedfl.pro" target="blank">Portfolio</a>
+<hr>
+
 <hr>
 <h3>Hire me as a freelance developer! </h3>
-
-**find my services on:** https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams
-<hr>
-
-<h3>Look at my personal portfolio! </h3>
-https://cesarobedfl.pro
+<a href="https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams" target="blank">**find my services here**</a>
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat" alt="cesarobedfl" /> </p>

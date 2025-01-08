@@ -13,9 +13,7 @@
 
 <h3>Look at my personal profile! </h3>
 <a href="https://cesarobedfl.pro" target="blank">Portfolio</a>
-<hr>
 
-<hr>
 <h3>Hire me as a freelance developer! </h3>
 <a href="https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams" target="blank">**find my services here**</a>
 <hr>

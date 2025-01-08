@@ -7,15 +7,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cesarobedfigueroaluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césarobedfigueroaluna" height="30" width="40" /></a>
-<a href="https://fb.com/cesarobed.figueroaluna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="césarobed.figueroaluna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cesarobedfigueroaluna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césarobedfigueroaluna" height="30" width="40" /></a>
+<a href="https://fb.com/cesarobed.figueroaluna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="césarobed.figueroaluna" height="30" width="40" /></a>
 </p>
 
 <h3>Look at my personal profile! </h3>
-<a href="https://cesarobedfl.pro" target="blank">Portfolio</a>
+<a href="https://cesarobedfl.pro" target="_blank">Portfolio</a>
 
 <h3>Hire me as a freelance developer! </h3>
-<a href="https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams" target="blank">**find my services here**</a>
+<a href="https://es.fiverr.com/cesar_obed_fl/make-the-web-portal-of-your-dreams" target="_blank">**find my services here**</a>
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat" alt="cesarobedfl" /> </p>

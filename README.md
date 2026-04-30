@@ -20,6 +20,7 @@
     </td>
   </tr>
   </div>
+</table>
 
   <h3>Look at my personal profile! </h3>
   <a href="https://cesarobedfl.pro" target="_blank">Portfolio</a>
@@ -106,7 +107,6 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
             alt="visualstudiocode" width="40" height="40" /> </a></td>
     </tr>
-
     <tr>
       <td align="center"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"

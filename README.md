@@ -6,10 +6,10 @@
 - 📫 How to reach me **cesarobedfl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"> 
 <a href="https://linkedin.com/in/cesarobedfigueroaluna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césarobedfigueroaluna" height="30" width="40" /></a>
 <a href="https://fb.com/cesarobed.figueroaluna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="césarobed.figueroaluna" height="30" width="40" /></a>
-</p>
+</div>
 
 <h3>Look at my personal profile! </h3>
 <a href="https://cesarobedfl.pro" target="_blank">Portfolio</a>
@@ -17,10 +17,11 @@
 <h3>Hire me as a freelance developer! </h3>
 <hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat" alt="cesarobedfl" /> </p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"> 
+<img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat" alt="cesarobedfl" /> </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" alt="livewire" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -54,14 +55,14 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://ubuntu.com/download/server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" width="40" height="40"/> </a> 
   <a href="https://fedoraproject.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/> </a> 
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"> 
 <img src="https://github-readme-stats.vercel.app/api?username=cesarobedfl&show_icons=true&locale=en" alt="cesarobedfl" width="500" height="300"/>
-</p>
-<p align="center">
+</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarobedfl&show_icons=true&locale=en&layout=compact" alt="cesarobedfl" width="500" height="300" />
-</p>
-<p align="center">
+</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cesarobedfl&" alt="cesarobedfl" width="500" height="300"/>
-</p>
+</div>

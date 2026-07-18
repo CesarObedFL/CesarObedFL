@@ -29,11 +29,6 @@
   <h3>Hire me as a freelance developer! </h3>
   <hr>
 
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://komarev.com/ghpvc/?username=cesarobedfl&label=Profile%20views&color=0e75b6&style=flat"
-      alt="cesarobedfl" />
-  </div>
-
   <h3 align="left">Languages and Tools:</h3>
 
   <table align="center">

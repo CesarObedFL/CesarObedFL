@@ -22,7 +22,7 @@
   </div>
 </table>
 
-  <h3>Look at my personal profile! </h3>
+  <h3>Look at my personal portfolio! </h3>
   
   [![Cesar Obed - Portafolio](https://cesarobedfl.pro/profile-card.svg)](https://cesarobedfl.pro)
 
